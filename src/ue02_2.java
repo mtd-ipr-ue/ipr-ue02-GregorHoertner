@@ -36,7 +36,6 @@ public class ue02_2 {
 
             default:
                 Out.println("FEHLER!");
-
         }
     
     }

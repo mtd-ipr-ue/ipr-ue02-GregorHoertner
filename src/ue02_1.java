@@ -23,7 +23,6 @@ public class ue02_1 {
         } else {
             max = number3;
         }
-
         Out.println("Maximum");
         Out.println(max);
 
