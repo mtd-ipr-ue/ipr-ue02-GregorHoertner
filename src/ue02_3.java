@@ -18,5 +18,4 @@ public class ue02_3 {
             Out.println("außerhalb der grünen Fläche");
         }
     }
-
 }
