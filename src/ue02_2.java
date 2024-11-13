@@ -31,6 +31,8 @@ public class ue02_2 {
                 } else {
                     days = 28;
                 }
+                Out.println("Tage");
+                Out.println(days);
                 break;
 
             default:

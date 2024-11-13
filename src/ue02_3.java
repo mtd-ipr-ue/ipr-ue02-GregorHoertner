@@ -12,7 +12,7 @@ public class ue02_3 {
 
         double distance = Math.sqrt(x * x + y * y);
 
-        if (distance >= 4 && x <= 4 && y <= 4) {
+        if (distance >= 4 && x <= 4 && y <= 4 && x >= 0 && y >= 0) {
             Out.println("innerhalb der grünen Fläche");
         } else {
             Out.println("außerhalb der grünen Fläche");
